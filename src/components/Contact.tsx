@@ -10,24 +10,24 @@ const Contact = () => {
     {
       icon: <Mail className="w-6 h-6" />,
       label: "联系邮箱",
-      value: "contact@catai.cn",
-      link: "mailto:contact@catai.cn",
+      value: "java8coffee@163.com",
+      link: "mailto:java8coffee@163.com",
     },
     {
       icon: <Mail className="w-6 h-6" />,
       label: "商务合作",
-      value: "bd@catai.cn",
-      link: "mailto:bd@catai.cn",
+      value: "java8coffee@163.com",
+      link: "mailto:java8coffee@163.com",
     },
     {
       icon: <Phone className="w-6 h-6" />,
       label: "联系电话",
-      value: "400-000-0000",
+      value: "13501101315",
     },
     {
       icon: <MapPin className="w-6 h-6" />,
       label: "公司地址",
-      value: "上海市浦东新区张江高科技园区",
+      value: "北京市海淀区中关村软件园2号楼",
     },
   ];
 
